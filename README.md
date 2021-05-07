@@ -1,6 +1,8 @@
 # Projekt_JS
 3. Automat sprzedający napoje
 
+https://github.com/Alona655/Projekt_JS
+
 Opis zadania
   * Automat przechowuje informacje o monetach znajdujących się w nim (1, 2, 5, 10, 20, 50gr, 1, 2, 5zł)
   * Automat przechowuje informacje o towarach znajdujących się w nim (przedmioty o numerach od 30 do 50), każdy o określonej cenie w określonej liczbie (domyślnie po 5 sztuk każdego towaru)
