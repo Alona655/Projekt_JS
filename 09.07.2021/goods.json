@@ -1,0 +1,23 @@
+{
+    "30": {"name": "Coca-Cola", "price": 260, "count": 10},
+    "31": {"name": "Fanta ORANGE", "price": 220, "count": 11},
+    "32": {"name": "Pepsi", "price": 200, "count": 100},
+    "33": {"name": "Oxfam Fair Trade COLA BIO", "price": 120, "count": 100},
+    "34": {"name": "Fair Trade LEMONIADA BIO", "price": 120, "count": 100},
+    "35": {"name": "Hollinger COLA BIO", "price": 120, "count": 100},
+    "36": {"name": "Schweppes American Ginger Ale", "price": 120, "count": 100},
+    "37": {"name": "Hellena Oranzada czerwona", "price": 120, "count": 100},
+    "38": {"name": "Hollinger LAWENDOWY BIO", "price": 120, "count": 100},
+    "39": {"name": "Cisowianka Woda mineralna niegazowana", "price": 120, "count": 100},
+    "40": {"name": "Fentimans Fentimans Rose Lemonada (Dzika róża)", "price": 120, "count": 100},
+    "41": {"name": "Pepsi PepsiCo Blue", "price": 120, "count": 100},
+    "42": {"name": "Coca-Cola Vanilla Zero Sugar", "price": 120, "count": 100},
+    "43": {"name": "Ramune Lemoniada Ramune Melon", "price": 120, "count": 100},
+    "44": {"name": "Coca-Cola Zero", "price": 120, "count": 100},
+    "45": {"name": "Dr. Pepper Soft", "price": 120, "count": 100},
+    "46": {"name": "Fanta Dragonata", "price": 120, "count": 100},
+    "47": {"name": "Fanta Fruit Twist", "price": 120, "count": 100},
+    "48": {"name": "Fanta Cassis (Grape)", "price": 120, "count": 100},
+    "49": {"name": "Muszynianka Naturalna Woda Mineralna", "price": 120, "count": 100},
+    "50": {"name": "Woda ZYWIEC ZDROJ", "price": 120, "count": 100}
+  }
